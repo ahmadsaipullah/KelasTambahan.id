@@ -1,0 +1,28 @@
+*{
+  height: 1500px;
+}
+
+.kontak{
+  height: 300px;
+  width: 300px;
+  background: blue;
+  top: 100px;
+  left: 200px;
+  position: relative;
+}
+
+.kotak1{
+  width: 50px;
+  height: 50px;
+  background: red;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+}
+
+.data{
+  width: 100px;
+  height: 100px;
+  background:red;
+  position: fixed;
+}
